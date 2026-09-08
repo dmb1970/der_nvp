@@ -12,64 +12,6 @@
     "android": {
       "apps": [
         {
-          "name": "sing-box",
-          "blocks": [
-            {
-              "title": {
-                "en": "Add Subscription",
-                "ru": "Добавление подписки"
-              },
-              "buttons": [
-                {
-                  "link": "sing-box://import-remote-profile/?url={{SUBSCRIPTION_LINK}}#{{USERNAME}}",
-                  "text": {
-                    "en": "Open Subscription Link",
-                    "ru": "Открыть ссылку подписки"
-                  },
-                  "type": "subscriptionLink",
-                  "svgIconKey": "ExternalLink"
-                }
-              ],
-              "svgIconKey": "CloudDownload",
-              "description": {
-                "en": "Open the subscription link and import it into your sing-box client.",
-                "ru": "Откройте ссылку подписки и импортируйте её в клиент sing-box."
-              },
-              "svgIconColor": "cyan"
-            }
-          ],
-          "svgIconKey": "Singbox"
-        },
-        {
-          "name": "Clash",
-          "blocks": [
-            {
-              "title": {
-                "en": "Add Subscription",
-                "ru": "Добавление подписки"
-              },
-              "buttons": [
-                {
-                  "link": "clash://install-config/?url={{SUBSCRIPTION_LINK}}&overwrite=no&name={{USERNAME}}",
-                  "text": {
-                    "en": "Add Subscription",
-                    "ru": "Добавить подписку"
-                  },
-                  "type": "subscriptionLink",
-                  "svgIconKey": "Plus"
-                }
-              ],
-              "svgIconKey": "CloudDownload",
-              "description": {
-                "en": "Click the button below — the app will open and the subscription will be added automatically",
-                "ru": "Нажмите кнопку ниже — приложение откроется, и подписка добавится автоматически."
-              },
-              "svgIconColor": "cyan"
-            }
-          ],
-          "svgIconKey": "ClashMi"
-        },
-        {
           "name": "Happ",
           "blocks": [
             {
@@ -107,64 +49,6 @@
     },
     "ios": {
       "apps": [
-        {
-          "name": "sing-box",
-          "blocks": [
-            {
-              "title": {
-                "en": "Add Subscription",
-                "ru": "Добавление подписки"
-              },
-              "buttons": [
-                {
-                  "link": "sing-box://import-remote-profile/?url={{SUBSCRIPTION_LINK}}#{{USERNAME}}",
-                  "text": {
-                    "en": "Open Subscription Link",
-                    "ru": "Открыть ссылку подписки"
-                  },
-                  "type": "subscriptionLink",
-                  "svgIconKey": "ExternalLink"
-                }
-              ],
-              "svgIconKey": "CloudDownload",
-              "description": {
-                "en": "Open the subscription link and import it into your sing-box client.",
-                "ru": "Откройте ссылку подписки и импортируйте её в клиент sing-box."
-              },
-              "svgIconColor": "cyan"
-            }
-          ],
-          "svgIconKey": "Singbox"
-        },
-        {
-          "name": "Clash",
-          "blocks": [
-            {
-              "title": {
-                "en": "Add Subscription",
-                "ru": "Добавление подписки"
-              },
-              "buttons": [
-                {
-                  "link": "clash://install-config/?url={{SUBSCRIPTION_LINK}}&overwrite=no&name={{USERNAME}}",
-                  "text": {
-                    "en": "Add Subscription",
-                    "ru": "Добавить подписку"
-                  },
-                  "type": "subscriptionLink",
-                  "svgIconKey": "Plus"
-                }
-              ],
-              "svgIconKey": "CloudDownload",
-              "description": {
-                "en": "Click the button below — the app will open and the subscription will be added automatically",
-                "ru": "Нажмите кнопку ниже — приложение откроется, и подписка добавится автоматически."
-              },
-              "svgIconColor": "cyan"
-            }
-          ],
-          "svgIconKey": "ClashMi"
-        },
         {
           "name": "Happ",
           "blocks": [
@@ -204,64 +88,6 @@
     "windows": {
       "apps": [
         {
-          "name": "sing-box",
-          "blocks": [
-            {
-              "title": {
-                "en": "Add Subscription",
-                "ru": "Добавление подписки"
-              },
-              "buttons": [
-                {
-                  "link": "sing-box://import-remote-profile/?url={{SUBSCRIPTION_LINK}}#{{USERNAME}}",
-                  "text": {
-                    "en": "Open Subscription Link",
-                    "ru": "Открыть ссылку подписки"
-                  },
-                  "type": "subscriptionLink",
-                  "svgIconKey": "ExternalLink"
-                }
-              ],
-              "svgIconKey": "CloudDownload",
-              "description": {
-                "en": "Open the subscription link and import it into your sing-box client.",
-                "ru": "Откройте ссылку подписки и импортируйте её в клиент sing-box."
-              },
-              "svgIconColor": "cyan"
-            }
-          ],
-          "svgIconKey": "Singbox"
-        },
-        {
-          "name": "Clash",
-          "blocks": [
-            {
-              "title": {
-                "en": "Add Subscription",
-                "ru": "Добавление подписки"
-              },
-              "buttons": [
-                {
-                  "link": "clash://install-config/?url={{SUBSCRIPTION_LINK}}&overwrite=no&name={{USERNAME}}",
-                  "text": {
-                    "en": "Add Subscription",
-                    "ru": "Добавить подписку"
-                  },
-                  "type": "subscriptionLink",
-                  "svgIconKey": "Plus"
-                }
-              ],
-              "svgIconKey": "CloudDownload",
-              "description": {
-                "en": "Click the button below — the app will open and the subscription will be added automatically",
-                "ru": "Нажмите кнопку ниже — приложение откроется, и подписка добавится автоматически."
-              },
-              "svgIconColor": "cyan"
-            }
-          ],
-          "svgIconKey": "ClashMi"
-        },
-        {
           "name": "Happ",
           "blocks": [
             {
@@ -299,35 +125,6 @@
     },
     "macos": {
       "apps": [
-        {
-          "name": "Clash",
-          "blocks": [
-            {
-              "title": {
-                "en": "Add Subscription",
-                "ru": "Добавление подписки"
-              },
-              "buttons": [
-                {
-                  "link": "clash://install-config/?url={{SUBSCRIPTION_LINK}}&overwrite=no&name={{USERNAME}}",
-                  "text": {
-                    "en": "Add Subscription",
-                    "ru": "Добавить подписку"
-                  },
-                  "type": "subscriptionLink",
-                  "svgIconKey": "Plus"
-                }
-              ],
-              "svgIconKey": "CloudDownload",
-              "description": {
-                "en": "Click the button below — the app will open and the subscription will be added automatically",
-                "ru": "Нажмите кнопку ниже — приложение откроется, и подписка добавится автоматически."
-              },
-              "svgIconColor": "cyan"
-            }
-          ],
-          "svgIconKey": "ClashMi"
-        },
         {
           "name": "Happ",
           "blocks": [
