@@ -21,6 +21,15 @@
               },
               "buttons": [
                 {
+                  "link": "https://play.google.com/store/apps/details?id=com.happproxy",
+                  "text": {
+                    "en": "Install Happ",
+                    "ru": "Установить Happ"
+                  },
+                  "type": "external",
+                  "svgIconKey": "DownloadIcon"
+                },
+                {
                   "link": "happ://add/{{SUBSCRIPTION_LINK}}",
                   "text": {
                     "en": "Add Subscription",
@@ -58,6 +67,15 @@
                 "ru": "Добавление подписки"
               },
               "buttons": [
+                {
+                  "link": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215",
+                  "text": {
+                    "en": "Install Happ",
+                    "ru": "Установить Happ"
+                  },
+                  "type": "external",
+                  "svgIconKey": "DownloadIcon"
+                },
                 {
                   "link": "happ://add/{{SUBSCRIPTION_LINK}}",
                   "text": {
@@ -97,6 +115,15 @@
               },
               "buttons": [
                 {
+                  "link": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe",
+                  "text": {
+                    "en": "Install Happ",
+                    "ru": "Установить Happ"
+                  },
+                  "type": "external",
+                  "svgIconKey": "DownloadIcon"
+                },
+                {
                   "link": "happ://add/{{SUBSCRIPTION_LINK}}",
                   "text": {
                     "en": "Add Subscription",
@@ -134,6 +161,15 @@
                 "ru": "Добавление подписки"
               },
               "buttons": [
+                {
+                  "link": "https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.macOS.universal.dmg",
+                  "text": {
+                    "en": "Install Happ",
+                    "ru": "Установить Happ"
+                  },
+                  "type": "external",
+                  "svgIconKey": "DownloadIcon"
+                },
                 {
                   "link": "happ://add/{{SUBSCRIPTION_LINK}}",
                   "text": {
